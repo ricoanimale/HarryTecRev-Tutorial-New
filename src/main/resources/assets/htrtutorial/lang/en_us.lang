@@ -1,0 +1,18 @@
+// Items
+item.ingot_copper.name=Copper Ingot
+item.tin_ingot.name=Tin Ingot
+item.bronze_ingot.name=Bronze Ingot
+
+// Tools
+item.bronze_sword.name=Bronze Sword
+item.bronze_shovel.name=Bronze Shovel
+item.bronze_pickaxe.name=Bronze Pickaxe
+item.bronze_hoe.name=Bronze Hoe
+item.bronze_axe.name=Bronze Axe
+
+// Blocks
+tile.copper_ore.name=Copper Ore
+tile.tin_ore.name=Tin Ore
+tile.block_copper.name=Copper Block
+tile.tin_block.name=Tin Block
+tile.bronze_block.name=Bronze Block

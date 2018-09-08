@@ -1,0 +1,16 @@
+[
+{
+  "modid": "htrtutorial",
+  "name": "HTR Tutorial",
+  "description": "Harry's Tech Review 1.12.2 modding tutorial.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Richard", "Harry"],
+  "credits": "Harry's Tech Reviews",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
