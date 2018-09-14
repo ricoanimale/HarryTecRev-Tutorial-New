@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "III",
+    "I I",
+    "I I"
+  ],
+
+  "key":
+  {
+    "I":
+    {
+      "item": "htrtutorial:ingot_copper"
+    }
+  },
+
+  "result":
+  {
+    "item": "htrtutorial:leggings_copper"
+  }
+}

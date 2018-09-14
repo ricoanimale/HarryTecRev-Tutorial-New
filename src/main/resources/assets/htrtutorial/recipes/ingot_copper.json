@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+          [
+            "B"
+          ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "htrtutorial:block_copper"
+    }
+  },
+
+  "result":
+  {
+    "item": "htrtutorial:ingot_copper",
+    "count": 9
+  }
+}

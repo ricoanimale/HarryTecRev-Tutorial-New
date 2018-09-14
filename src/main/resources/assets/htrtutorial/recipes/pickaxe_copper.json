@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "III",
+    " S ",
+    " S "
+  ],
+
+  "key":
+  {
+    "I":
+    {
+      "item": "htrtutorial:ingot_copper"
+    },
+    "S":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "htrtutorial:pickaxe_copper"
+  }
+}

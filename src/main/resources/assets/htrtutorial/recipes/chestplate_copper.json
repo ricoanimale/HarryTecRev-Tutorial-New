@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "I I",
+    "III",
+    "III"
+  ],
+
+  "key":
+  {
+    "I":
+    {
+      "item": "htrtutorial:ingot_copper"
+    }
+  },
+
+  "result":
+  {
+    "item": "htrtutorial:chestplate_copper"
+  }
+}
