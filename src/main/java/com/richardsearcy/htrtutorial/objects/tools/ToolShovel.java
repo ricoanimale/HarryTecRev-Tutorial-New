@@ -3,8 +3,6 @@ package com.richardsearcy.htrtutorial.objects.tools;
 import com.richardsearcy.htrtutorial.Main;
 import com.richardsearcy.htrtutorial.init.ItemInit;
 import com.richardsearcy.htrtutorial.util.IHasModel;
-import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemSpade;
 
 public class ToolShovel extends ItemSpade implements IHasModel {
@@ -14,7 +12,7 @@ public class ToolShovel extends ItemSpade implements IHasModel {
         super(material);
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(CreativeTabs.TOOLS);
+        setCreativeTab(Main.tutorialtab);
 
         ItemInit.ITEMS.add(this);
     }

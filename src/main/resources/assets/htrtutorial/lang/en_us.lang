@@ -1,3 +1,6 @@
+// Tabs
+itemGroup.tutorialtab=Tutorial Mod
+
 // Items
 item.ingot_copper.name=Copper Ingot
 item.tin_ingot.name=Tin Ingot

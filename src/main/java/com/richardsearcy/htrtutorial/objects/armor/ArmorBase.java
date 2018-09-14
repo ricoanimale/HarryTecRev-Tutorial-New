@@ -3,9 +3,7 @@ package com.richardsearcy.htrtutorial.objects.armor;
 import com.richardsearcy.htrtutorial.Main;
 import com.richardsearcy.htrtutorial.init.ItemInit;
 import com.richardsearcy.htrtutorial.util.IHasModel;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.inventory.EntityEquipmentSlot;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemArmor;
 
 public class ArmorBase extends ItemArmor implements IHasModel {
@@ -15,7 +13,7 @@ public class ArmorBase extends ItemArmor implements IHasModel {
         super(materialIn, renderIndexIn, equipmentSlotIn);
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(CreativeTabs.COMBAT);
+        setCreativeTab(Main.tutorialtab);
 
         ItemInit.ITEMS.add(this);
     }

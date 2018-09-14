@@ -4,14 +4,12 @@ import com.richardsearcy.htrtutorial.objects.armor.ArmorBase;
 import com.richardsearcy.htrtutorial.objects.items.ItemBase;
 import com.richardsearcy.htrtutorial.objects.tools.*;
 import com.richardsearcy.htrtutorial.util.Reference;
-import net.minecraft.advancements.critereon.EnchantedItemTrigger;
 import net.minecraft.init.SoundEvents;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemArmor;
 import net.minecraftforge.common.util.EnumHelper;
 
-import javax.swing.text.html.parser.Entity;
 import java.util.ArrayList;
 import java.util.List;
 
