@@ -2,6 +2,7 @@ package com.richardsearcy.htrtutorial;
 
 import com.richardsearcy.htrtutorial.proxy.CommonProxy;
 import com.richardsearcy.htrtutorial.util.Reference;
+import com.richardsearcy.htrtutorial.util.handlers.RegistryHandler;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
@@ -21,7 +22,10 @@ public class Main {
     public static final CreativeTabs tutorialtab = new TutorialTab("tutorialtab");
 
     @Mod.EventHandler
-    public static void preInit(FMLPreInitializationEvent event) {}
+    public static void preInit(FMLPreInitializationEvent event) {
+
+        RegistryHandler.otherRegistries();
+    }
 
     @Mod.EventHandler
     public static void init(FMLInitializationEvent event) {}

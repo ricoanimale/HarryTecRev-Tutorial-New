@@ -20,7 +20,12 @@ item.leggings_copper.name=Copper Leggings
 item.boots_copper.name=Copper Boots
 
 // Blocks
-tile.copper_ore.name=Copper Ore
+tile.ore_overworld_aluminum.name=Aluminum Ore
+tile.ore_overworld_copper.name=Copper Ore
+tile.ore_end_aluminum.name=Ender Aluminum Ore
+tile.ore_end_copper.name=Ender Copper Ore
+tile.ore_nether_aluminum.name=Fiery Aluminum Ore
+tile.ore_nether_copper.name=Fiery Copper Ore
 tile.tin_ore.name=Tin Ore
 tile.block_copper.name=Copper Block
 tile.tin_block.name=Tin Block

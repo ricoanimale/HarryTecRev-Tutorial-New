@@ -1,0 +1,11 @@
+{
+  "variants":
+  {
+    "variant=aluminum": {
+      "model": "htrtutorial:ore_nether_aluminum"
+    },
+    "variant=copper": {
+      "model": "htrtutorial:ore_nether_copper"
+    }
+  }
+}
